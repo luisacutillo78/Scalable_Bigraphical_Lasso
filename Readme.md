@@ -1,17 +1,6 @@
-# Nonparanormal_bigraphical_lasso code.
+# Scalable Bigraphical Lasso code.
 This repository reproduces the research presented in the paper: 
 "Two-way Sparse Network Inference for Count Data", Authors: Li, Sijia; López-García, Martín; Lawrence, Neil D; Cutillo, Luisa, accepted at AISTATS2022.
-## Demo on Real Data
-In the file Demo1.m we provide an example of use of our code in case of count data. In Demo2.m we provide an example of use of our code in case of continuous data. 
-
-Data used in Demo1 example are...
-
-Data used in Demo2 example are...
-
-To run the code:
-* Clone the repo
-* Launch Matlab
-* Run Demo.m
 
 ## Matlab libraries needed: 
 We are using  **Matlab 2020b**.
