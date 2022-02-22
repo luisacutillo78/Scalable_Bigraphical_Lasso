@@ -1,4 +1,4 @@
-# Scalable Bigraphical Lasso code.
+# Scalable Bigraphical Lasso code
 This repository reproduces the research presented in the paper: 
 "Two-way Sparse Network Inference for Count Data", Authors: Li, Sijia; López-García, Martín; Lawrence, Neil D; Cutillo, Luisa, accepted at AISTATS2022.
 
