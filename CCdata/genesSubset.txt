@@ -1,0 +1,118 @@
+ID	Gene Name	Species
+ENSMUSG00000005470	ASF1 anti-silencing function 1 homolog B (S. cerevisiae)	Mus musculus	
+ENSMUSG00000026491	AT hook containing transcription factor 1	Mus musculus	
+ENSMUSG00000064302	CLIP associating protein 1	Mus musculus	
+ENSMUSG00000033392	CLIP associating protein 2	Mus musculus	
+ENSMUSG00000022429	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	Mus musculus	
+ENSMUSG00000027478	DNA methyltransferase 3B	Mus musculus	
+ENSMUSG00000025395	DNA primase, p49 subunit	Mus musculus	
+ENSMUSG00000027635	DSN1, MIND kinetochore complex component, homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000057469	E2F transcription factor 6	Mus musculus	
+ENSMUSG00000034023	Fanconi anemia, complementation group D2	Mus musculus	
+ENSMUSG00000039187	Fanconi anemia, complementation group I	Mus musculus	
+ENSMUSG00000049932	H2A histone family, member X	Mus musculus	
+ENSMUSG00000000708	K(lysine) acetyltransferase 2B; predicted gene 5109	Mus musculus	
+ENSMUSG00000040599	MIS12 homolog (yeast)	Mus musculus	
+ENSMUSG00000024056	NDC80 homolog, kinetochore complex component (S. cerevisiae)	Mus musculus	
+ENSMUSG00000026622	NIMA (never in mitosis gene a)-related expressed kinase 2	Mus musculus	
+ENSMUSG00000062510	NSL1, MIND kinetochore complex component, homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000072980	Opa interacting protein 5	Mus musculus	
+ENSMUSG00000022314	RAD21 homolog (S. pombe)	Mus musculus	
+ENSMUSG00000020380	RAD50 homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000022391	RAN GTPase activating protein 1	Mus musculus	
+ENSMUSG00000044502	RIKEN cDNA 2310022M17 gene; predicted gene 7843	Mus musculus	
+ENSMUSG00000075266	RIKEN cDNA 2610036L11 gene	Mus musculus	
+ENSMUSG00000022978	RIKEN cDNA 2610039C10 gene	Mus musculus	
+ENSMUSG00000036223	RIKEN cDNA 2810433K01 gene	Mus musculus	
+ENSMUSG00000031858	RIKEN cDNA 9130404D08 gene	Mus musculus	
+ENSMUSG00000021965	RIKEN cDNA F630043A04 gene	Mus musculus	
+ENSMUSG00000036202	Rap1 interacting factor 1 homolog (yeast)	Mus musculus	
+ENSMUSG00000079614	SEH1-like (S. cerevisiae	Mus musculus	
+ENSMUSG00000049327	SET domain containing (lysine methyltransferase) 8; predicted gene 8590	Mus musculus	
+ENSMUSG00000074476	SPC24, NDC80 kinetochore complex component, homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000005233	SPC25, NDC80 kinetochore complex component, homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000000902	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	Mus musculus	
+ENSMUSG00000058301	UPF1 regulator of nonsense transcripts homolog (yeast)	Mus musculus	
+ENSMUSG00000032264	ZW10 homolog (Drosophila), centromere/kinetochore protein	Mus musculus	
+ENSMUSG00000019923	ZW10 interactor	Mus musculus	
+ENSMUSG00000032400	Zwilch, kinetochore associated, homolog (Drosophila)	Mus musculus	
+ENSMUSG00000031004	antigen identified by monoclonal antibody Ki 67	Mus musculus	
+ENSMUSG00000073705	apoptosis-inducing, TAF9-like domain 1	Mus musculus	
+ENSMUSG00000020897	aurora kinase B	Mus musculus	
+ENSMUSG00000017716	baculoviral IAP repeat-containing 5	Mus musculus	
+ENSMUSG00000017146	breast cancer 1	Mus musculus	
+ENSMUSG00000027379	budding uninhibited by benzimidazoles 1 homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000040084	budding uninhibited by benzimidazoles 1 homolog, beta (S. cerevisiae)	Mus musculus	
+ENSMUSG00000028873	cell division cycle associated 8	Mus musculus	
+ENSMUSG00000029253	centromere protein C1	Mus musculus	
+ENSMUSG00000045328	centromere protein E	Mus musculus	
+ENSMUSG00000026708	centromere protein L	Mus musculus	
+ENSMUSG00000031756	centromere protein N	Mus musculus	
+ENSMUSG00000023919	centromere protein Q	Mus musculus	
+ENSMUSG00000036672	centromere protein T	Mus musculus	
+ENSMUSG00000018509	centromere protein V	Mus musculus	
+ENSMUSG00000043987	centrosomal protein 164	Mus musculus	
+ENSMUSG00000032113	checkpoint kinase 1 homolog (S. pombe)	Mus musculus	
+ENSMUSG00000000743	chromatin modifying protein 1A; predicted gene 8515	Mus musculus	
+ENSMUSG00000063870	chromodomain helicase DNA binding protein 4	Mus musculus	
+ENSMUSG00000042489	claspin homolog (Xenopus laevis)	Mus musculus	
+ENSMUSG00000069910	coiled-coil domain containing 99	Mus musculus	
+ENSMUSG00000025358	cyclin-dependent kinase 2	Mus musculus	
+ENSMUSG00000028447	dynactin 3	Mus musculus	
+ENSMUSG00000051220	excision repair cross-complementing rodent repair deficiency complementation group 6 - like	Mus musculus	
+ENSMUSG00000047534	expressed sequence C79407	Mus musculus	
+ENSMUSG00000025001	helicase, lymphoid specific	Mus musculus	
+ENSMUSG00000028759	heterochromatin protein 1, binding protein 3	Mus musculus	
+ENSMUSG00000020232	high mobility group 20 B	Mus musculus	
+ENSMUSG00000036181	histone cluster 1, H1c	Mus musculus	
+ENSMUSG00000024660	inner centromere protein	Mus musculus	
+ENSMUSG00000029414	kinetochore associated 1	Mus musculus	
+ENSMUSG00000035310	lin-54 homolog (C. elegans)	Mus musculus	
+ENSMUSG00000002870	minichromosome maintenance deficient 2 mitotin (S. cerevisiae)	Mus musculus	
+ENSMUSG00000029554	mitotic arrest deficient 1-like 1	Mus musculus	
+ENSMUSG00000032498	mutL homolog 1 (E. coli)	Mus musculus	
+ENSMUSG00000031629	myeloid leukemia factor 1 interacting protein	Mus musculus	
+ENSMUSG00000028224	nibrin	Mus musculus	
+ENSMUSG00000038252	non-SMC condensin I complex, subunit D2	Mus musculus	
+ENSMUSG00000035024	non-SMC condensin II complex, subunit D3	Mus musculus	
+ENSMUSG00000022678	nuclear distribution gene E homolog 1 (A nidulans)	Mus musculus	
+ENSMUSG00000040034	nucleoporin 43	Mus musculus	
+ENSMUSG00000040044	origin recognition complex, subunit 3-like (S. cerevisiae)	Mus musculus	
+ENSMUSG00000028066	polyamine-modulated factor 1	Mus musculus	
+ENSMUSG00000070837	predicted gene 12463; predicted gene 7210; aurora kinase C	Mus musculus	
+ENSMUSG00000054717	predicted gene 13160; predicted gene 8681; predicted gene 13237; predicted gene 4169; predicted gene 8284; similar to High mobility group box 2; predicted gene 13167; high mobility group box 2; predicted gene 13232	Mus musculus	
+ENSMUSG00000028549	predicted gene 3507; integrin beta 3 binding protein (beta3-endonexin); similar to integrin beta 3 binding protein	Mus musculus	
+ENSMUSG00000020492	predicted gene 6597; RIKEN cDNA 1110001A07 gene	Mus musculus	
+ENSMUSG00000056758	predicted gene 7996; high mobility group AT-hook 2	Mus musculus	
+ENSMUSG00000024974	predicted gene 8892; structural maintenace of chromosomes 3	Mus musculus	
+ENSMUSG00000027342	proliferating cell nuclear antigen; similar to proliferating cell nuclear antigen (DNA polymerase delta auxiliary protein)	Mus musculus	
+ENSMUSG00000040945	regulator of chromosome condensation 2; hypothetical protein LOC100047340	Mus musculus	
+ENSMUSG00000023104	replication factor C (activator 1) 2	Mus musculus	
+ENSMUSG00000022881	replication factor C (activator 1) 4	Mus musculus	
+ENSMUSG00000001833	septin 7	Mus musculus	
+ENSMUSG00000023940	shugoshin-like 1 (S. pombe)	Mus musculus	
+ENSMUSG00000026039	shugoshin-like 2 (S. pombe)	Mus musculus	
+ENSMUSG00000026683	similar to Nuf2 protein; NUF2, NDC80 kinetochore complex component, homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000024943	similar to Structural maintenance of chromosomes 5; structural maintenance of chromosomes 5	Mus musculus	
+ENSMUSG00000035351	similar to nucleoporin 37; nucleoporin 37	Mus musculus	
+ENSMUSG00000029910	similar to spindle assembly checkpoint protein; MAD2 mitotic arrest deficient-like 1 (yeast)	Mus musculus	
+ENSMUSG00000031609	sin3 associated polypeptide	Mus musculus	
+ENSMUSG00000002055	sperm associated antigen 5	Mus musculus	
+ENSMUSG00000025144	stimulated by retinoic acid 13	Mus musculus	
+ENSMUSG00000036928	stromal antigen 3	Mus musculus	
+ENSMUSG00000041133	structural maintenance of chromosomes 1A	Mus musculus	
+ENSMUSG00000022432	structural maintenance of chromosomes 1B	Mus musculus	
+ENSMUSG00000028312	structural maintenance of chromosomes 2	Mus musculus	
+ENSMUSG00000034349	structural maintenance of chromosomes 4	Mus musculus	
+ENSMUSG00000039231	suppressor of variegation 3-9 homolog 1 (Drosophila)	Mus musculus	
+ENSMUSG00000026646	suppressor of variegation 3-9 homolog 2 (Drosophila)	Mus musculus	
+ENSMUSG00000025480	synaptonemal complex central element protein 1	Mus musculus	
+ENSMUSG00000003824	synaptonemal complex central element protein 2	Mus musculus	
+ENSMUSG00000027855	synaptonemal complex protein 1; similar to testicular protein	Mus musculus	
+ENSMUSG00000020059	synaptonemal complex protein 3	Mus musculus	
+ENSMUSG00000025925	telomeric repeat binding factor 1	Mus musculus	
+ENSMUSG00000031921	telomeric repeat binding factor 2	Mus musculus	
+ENSMUSG00000032397	timeless interacting protein	Mus musculus	
+ENSMUSG00000032555	topoisomerase (DNA) II binding protein 1	Mus musculus	
+ENSMUSG00000059552	transformation related protein 53	Mus musculus	
+ENSMUSG00000041408	wings apart-like homolog (Drosophila)	Mus musculus	

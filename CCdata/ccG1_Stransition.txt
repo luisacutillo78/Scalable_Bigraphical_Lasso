@@ -1,0 +1,10 @@
+ID	Gene Name	Species
+ENSMUSG00000014859	E2F transcription factor 4	Mus musculus	
+ENSMUSG00000027552	E2F transcription factor 5	Mus musculus	
+ENSMUSG00000057469	E2F transcription factor 6	Mus musculus	
+ENSMUSG00000024791	cell division cycle associated 5	Mus musculus	
+ENSMUSG00000070348	cyclin D1	Mus musculus	
+ENSMUSG00000000184	cyclin D2	Mus musculus	
+ENSMUSG00000021959	large tumor suppressor 2	Mus musculus	
+ENSMUSG00000022105	retinoblastoma 1	Mus musculus	
+ENSMUSG00000041238	retinoblastoma binding protein 8	Mus musculus	

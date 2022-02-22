@@ -1,0 +1,4 @@
+ID	Gene Name	Species
+ENSMUSG00000002297	DBF4 homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000022369	Mdm2, transformed 3T3 cell double minute p53 binding protein	Mus musculus	
+ENSMUSG00000039128	cell division cycle 123 homolog (S. cerevisiae)	Mus musculus	

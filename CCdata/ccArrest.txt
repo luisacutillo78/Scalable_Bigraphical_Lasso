@@ -1,0 +1,24 @@
+ID	Gene Name	Species
+ENSMUSG00000025408	DNA-damage inducible transcript 3	Mus musculus	
+ENSMUSG00000022369	Mdm2, transformed 3T3 cell double minute p53 binding protein	Mus musculus	
+ENSMUSG00000030641	RIKEN cDNA 4632434I11 gene	Mus musculus	
+ENSMUSG00000010067	Ras association (RalGDS/AF-6) domain family member 1	Mus musculus	
+ENSMUSG00000023067	cyclin-dependent kinase inhibitor 1A (P21)	Mus musculus	
+ENSMUSG00000003031	cyclin-dependent kinase inhibitor 1B	Mus musculus	
+ENSMUSG00000037664	cyclin-dependent kinase inhibitor 1C (P57)	Mus musculus	
+ENSMUSG00000044303	cyclin-dependent kinase inhibitor 2A	Mus musculus	
+ENSMUSG00000037628	cyclin-dependent kinase inhibitor 3	Mus musculus	
+ENSMUSG00000036390	growth arrest and DNA-damage-inducible 45 alpha	Mus musculus	
+ENSMUSG00000052957	growth arrest specific 1	Mus musculus	
+ENSMUSG00000030498	growth arrest specific 2	Mus musculus	
+ENSMUSG00000024151	mutS homolog 2 (E. coli)	Mus musculus	
+ENSMUSG00000029004	myeloid/lymphoid or mixed-lineage leukemia 5	Mus musculus	
+ENSMUSG00000018217	peripheral myelin protein 22	Mus musculus	
+ENSMUSG00000029147	protein phosphatase 1G (formerly 2C), magnesium-dependent, gamma isoform	Mus musculus	
+ENSMUSG00000022105	retinoblastoma 1	Mus musculus	
+ENSMUSG00000003068	serine/threonine kinase 11	Mus musculus	
+ENSMUSG00000074802	similar to growth arrest-specific 2 like 3; growth arrest-specific 2 like 3	Mus musculus	
+ENSMUSG00000042303	small G protein signaling modulator 3	Mus musculus	
+ENSMUSG00000029026	transformation related protein 73	Mus musculus	
+ENSMUSG00000011114	transforming growth factor beta regulated gene 1	Mus musculus	
+ENSMUSG00000014402	tumor susceptibility gene 101	Mus musculus	

@@ -1,0 +1,358 @@
+Gene Group 1	Enrichment Score: Infinity
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000015120	predicted gene 14176; similar to Chain A, Crystal Structure Of Human Rangap1-Ubc9; ubiquitin-conjugating enzyme E2I; predicted gene 5931
+ENSMUSG00000001403	ubiquitin-conjugating enzyme E2C; predicted gene 8956
+ENSMUSG00000026429	ubiquitin-conjugating enzyme E2T (putative)
+ENSMUSG00000060860	predicted gene 2296; ubiquitin-conjugating enzyme E2S
+ENSMUSG00000020307	cell division cycle 34 homolog (S. cerevisiae); similar to Cell division cycle 34 homolog (S. cerevisiae)
+ENSMUSG00000030061	ubiquitin-like modifier activating enzyme 3
+
+Gene Group 2	Enrichment Score: Infinity
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000000486	septin 1
+ENSMUSG00000026276	septin 2
+ENSMUSG00000050379	septin 6
+ENSMUSG00000019917	septin 10
+ENSMUSG00000018398	septin 8
+ENSMUSG00000024944	ADP-ribosylation factor-like 2
+ENSMUSG00000001833	septin 7
+ENSMUSG00000058013	septin 11
+ENSMUSG00000020486	septin 4
+ENSMUSG00000059248	septin 9
+ENSMUSG00000025035	ADP-ribosylation factor-like 3
+
+Gene Group 3	Enrichment Score: Infinity
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000025135	anaphase promoting complex subunit 11
+ENSMUSG00000024817	ubiquitin-like, containing PHD and RING finger domains 2
+ENSMUSG00000014668	checkpoint with forkhead and ring finger domains
+ENSMUSG00000036840	seven in absentia 1A
+ENSMUSG00000035293	G2/M-phase specific E3 ubiquitin ligase
+ENSMUSG00000036432	seven in absentia 2
+ENSMUSG00000059586	predicted gene 5203; non-SMC element 2 homolog (MMS21, S. cerevisiae)
+ENSMUSG00000041712	ubiquitin protein ligase E3 component n-recognin 7 (putative)
+
+Gene Group 4	Enrichment Score: Infinity
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000018983	E2F transcription factor 2
+ENSMUSG00000057469	E2F transcription factor 6
+ENSMUSG00000016477	E2F transcription factor 3
+ENSMUSG00000014859	E2F transcription factor 4
+ENSMUSG00000027552	E2F transcription factor 5
+ENSMUSG00000032411	transcription factor Dp 2
+ENSMUSG00000046179	E2F transcription factor 8
+ENSMUSG00000038482	predicted gene 7390; transcription factor Dp 1; similar to Transcription factor Dp-1 (E2F dimerization partner 1) (DRTF1-polypeptide 1)
+ENSMUSG00000020185	E2F transcription factor 7
+
+Gene Group 5	Enrichment Score: Infinity
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000012443	kinesin family member 11
+ENSMUSG00000022432	structural maintenance of chromosomes 1B
+ENSMUSG00000051220	excision repair cross-complementing rodent repair deficiency complementation group 6 - like
+ENSMUSG00000041133	structural maintenance of chromosomes 1A
+ENSMUSG00000026622	NIMA (never in mitosis gene a)-related expressed kinase 2
+ENSMUSG00000017499	cell division cycle 6 homolog (S. cerevisiae); predicted gene 9430; similar to cell division cycle 6 homolog
+ENSMUSG00000028312	structural maintenance of chromosomes 2
+ENSMUSG00000024974	predicted gene 8892; structural maintenace of chromosomes 3
+ENSMUSG00000020380	RAD50 homolog (S. cerevisiae)
+ENSMUSG00000024943	similar to Structural maintenance of chromosomes 5; structural maintenance of chromosomes 5
+ENSMUSG00000040084	budding uninhibited by benzimidazoles 1 homolog, beta (S. cerevisiae)
+ENSMUSG00000034349	structural maintenance of chromosomes 4
+ENSMUSG00000024795	kinesin family member 20B
+ENSMUSG00000020897	aurora kinase B
+
+Gene Group 6	Enrichment Score: Infinity
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000022673	minichromosome maintenance deficient 4 homolog (S. cerevisiae)
+ENSMUSG00000002870	minichromosome maintenance deficient 2 mitotin (S. cerevisiae)
+ENSMUSG00000026355	minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)
+ENSMUSG00000021635	RAD17 homolog (S. pombe)
+ENSMUSG00000023104	replication factor C (activator 1) 2
+ENSMUSG00000019214	CTF18, chromosome transmission fidelity factor 18 homolog (S. cerevisiae)
+ENSMUSG00000005410	minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)
+ENSMUSG00000028587	origin recognition complex, subunit 1-like (S.cereviaiae)
+ENSMUSG00000029730	minichromosome maintenance deficient 7 (S. cerevisiae)
+ENSMUSG00000022881	replication factor C (activator 1) 4
+ENSMUSG00000022360	ATPase family, AAA domain containing 2
+ENSMUSG00000041859	minichromosome maintenance deficient 3 (S. cerevisiae)
+ENSMUSG00000027353	minichromosome maintenance deficient 8 (S. cerevisiae)
+ENSMUSG00000041064	PIF1 5'-to-3' DNA helicase homolog (S. cerevisiae)
+
+Gene Group 7	Enrichment Score: Infinity
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000031155	proviral integration site 2
+ENSMUSG00000004085	RIKEN cDNA B230120H23 gene
+ENSMUSG00000031292	cyclin-dependent kinase-like 5
+ENSMUSG00000020694	predicted gene 13161; tousled-like kinase 2 (Arabidopsis)
+ENSMUSG00000021701	polo-like kinase 2 (Drosophila)
+ENSMUSG00000029521	CHK2 checkpoint homolog (S. pombe)
+ENSMUSG00000050107	germ cell-specific gene 2
+ENSMUSG00000028680	polo-like kinase 3 (Drosophila)
+ENSMUSG00000004591	protein kinase N2
+ENSMUSG00000031644	NIMA (never in mitosis gene a)-related expressed kinase 1
+ENSMUSG00000042688	similar to Mitogen-activated protein kinase 6 (Extracellular signal-regulated kinase 3) (ERK-3); predicted gene 2587; mitogen-activated protein kinase 6; similar to Mapk6 protein
+ENSMUSG00000026094	serine/threonine kinase 17b (apoptosis-inducing)
+ENSMUSG00000023908	protein kinase, membrane associated tyrosine/threonine 1
+ENSMUSG00000030602	p21 protein (Cdc42/Rac)-activated kinase 4
+ENSMUSG00000027379	budding uninhibited by benzimidazoles 1 homolog (S. cerevisiae)
+ENSMUSG00000022033	PDZ binding kinase
+ENSMUSG00000021918	NIMA (never in mitosis gene a)-related expressed kinase 4
+ENSMUSG00000026622	NIMA (never in mitosis gene a)-related expressed kinase 2
+ENSMUSG00000029062	cell division cycle 2-like 1
+ENSMUSG00000034290	NIMA (never in mitosis gene a)-related expressed kinase 9
+ENSMUSG00000024042	salt inducible kinase 1
+ENSMUSG00000040021	large tumor suppressor
+ENSMUSG00000028926	PFTAIRE protein kinase 1
+ENSMUSG00000027496	aurora kinase A
+ENSMUSG00000004864	mitogen-activated protein kinase 13
+ENSMUSG00000025358	cyclin-dependent kinase 2
+ENSMUSG00000046707	casein kinase 2, alpha prime polypeptide; similar to casein kinase II, alpha prime subunit
+ENSMUSG00000031016	WEE 1 homolog 1 (S. pombe)
+ENSMUSG00000030272	calcium/calmodulin-dependent protein kinase I
+ENSMUSG00000026749	NIMA (never in mitosis gene a)-related expressed kinase 6
+ENSMUSG00000029283	cell division cycle 7 (S. cerevisiae)
+ENSMUSG00000070837	predicted gene 12463; predicted gene 7210; aurora kinase C
+ENSMUSG00000020272	serine/threonine kinase 10
+ENSMUSG00000021115	vaccinia related kinase 1
+ENSMUSG00000031309	ribosomal protein S6 kinase polypeptide 3
+ENSMUSG00000040274	cyclin-dependent kinase 6
+ENSMUSG00000001034	mitogen-activated protein kinase 7
+ENSMUSG00000038379	Ttk protein kinase
+ENSMUSG00000035828	proviral integration site 3
+ENSMUSG00000020623	mitogen-activated protein kinase kinase 6
+ENSMUSG00000030867	polo-like kinase 1 (Drosophila)
+ENSMUSG00000020897	aurora kinase B
+ENSMUSG00000003068	serine/threonine kinase 11
+ENSMUSG00000035486	polo-like kinase 5 (Drosophila)
+ENSMUSG00000020516	ribosomal protein S6 kinase, polypeptide 1
+ENSMUSG00000026779	microtubule associated serine/threonine kinase-like
+ENSMUSG00000021483	cell cycle related kinase
+ENSMUSG00000035683	maternal embryonic leucine zipper kinase
+ENSMUSG00000040084	budding uninhibited by benzimidazoles 1 homolog, beta (S. cerevisiae)
+ENSMUSG00000024558	mitogen-activated protein kinase 4
+ENSMUSG00000031478	NIMA (never in mitosis gene a)-related expressed kinase 3
+ENSMUSG00000029516	citron
+ENSMUSG00000041997	similar to tousled-like kinase 1; tousled-like kinase 1
+ENSMUSG00000024235	mitogen-activated protein kinase kinase kinase 8
+ENSMUSG00000074698	casein kinase 2, alpha 1 polypeptide; predicted gene 10031; similar to casein kinase II, alpha 1 polypeptide
+ENSMUSG00000024576	casein kinase 1, alpha 1
+ENSMUSG00000006728	similar to Cell division protein kinase 4 (Cyclin-dependent kinase 4) (PSK-J3) (CRK3); cyclin-dependent kinase 4
+ENSMUSG00000019942	cell division cycle 2 homolog A (S. pombe)
+ENSMUSG00000032113	checkpoint kinase 1 homolog (S. pombe)
+ENSMUSG00000062234	cyclin G associated kinase
+ENSMUSG00000069089	cyclin-dependent kinase 7 (homolog of Xenopus MO15 cdk-activating kinase)
+ENSMUSG00000010342	testis expressed gene 14
+ENSMUSG00000021959	large tumor suppressor 2
+
+Gene Group 8	Enrichment Score: Infinity
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000034021	PDS5, regulator of cohesion maintenance, homolog B (S. cerevisiae)
+ENSMUSG00000022070	RIKEN cDNA 6720463M24 gene
+ENSMUSG00000027285	HAUS augmin-like complex, subunit 2
+ENSMUSG00000072980	Opa interacting protein 5
+ENSMUSG00000069910	coiled-coil domain containing 99
+ENSMUSG00000027306	nucleolar and spindle associated protein 1
+ENSMUSG00000027479	predicted gene 8545; microtubule-associated protein, RP/EB family, member 1; similar to Microtubule-associated protein RP/EB family member 1 (APC-binding protein EB1) (End-binding protein 1) (EB1)
+ENSMUSG00000027635	DSN1, MIND kinetochore complex component, homolog (S. cerevisiae)
+ENSMUSG00000024795	kinesin family member 20B
+ENSMUSG00000072082	cyclin F
+ENSMUSG00000031787	katanin p80 (WD40-containing) subunit B 1
+ENSMUSG00000028896	regulator of chromosome condensation 1
+ENSMUSG00000037286	stromal antigen 1
+ENSMUSG00000029414	kinetochore associated 1
+ENSMUSG00000044502	RIKEN cDNA 2310022M17 gene; predicted gene 7843
+ENSMUSG00000035342	leucine zipper, putative tumor suppressor 2
+ENSMUSG00000021965	RIKEN cDNA F630043A04 gene
+ENSMUSG00000026683	similar to Nuf2 protein; NUF2, NDC80 kinetochore complex component, homolog (S. cerevisiae)
+ENSMUSG00000044201	cell division cycle 25 homolog C (S. pombe)
+ENSMUSG00000018509	centromere protein V
+ENSMUSG00000036223	RIKEN cDNA 2810433K01 gene
+ENSMUSG00000036977	anaphase promoting complex subunit 10
+ENSMUSG00000031010	ubiquitin specific peptidase 9, X chromosome
+ENSMUSG00000012443	kinesin family member 11
+ENSMUSG00000056919	RIKEN cDNA 4922501C03 gene
+ENSMUSG00000025862	stromal antigen 2
+ENSMUSG00000022678	nuclear distribution gene E homolog 1 (A nidulans)
+ENSMUSG00000046010	zinc finger protein 830
+ENSMUSG00000021395	similar to Spindlin 1; spindlin 1; spindlin family, member 3
+ENSMUSG00000035351	similar to nucleoporin 37; nucleoporin 37
+ENSMUSG00000019988	neural precursor cell expressed, developmentally down-regulated gene 1
+ENSMUSG00000040034	nucleoporin 43
+ENSMUSG00000022314	RAD21 homolog (S. pombe)
+ENSMUSG00000035024	non-SMC condensin II complex, subunit D3
+ENSMUSG00000029910	similar to spindle assembly checkpoint protein; MAD2 mitotic arrest deficient-like 1 (yeast)
+ENSMUSG00000031371	similar to UCH37-interacting protein 1; HAUS augmin-like complex, subunit 7
+ENSMUSG00000064302	CLIP associating protein 1
+ENSMUSG00000050996	centrin 1
+ENSMUSG00000026965	anaphase promoting complex subunit 2
+ENSMUSG00000040860	ciliary rootlet coiled-coil, rootletin
+ENSMUSG00000027959	spindle assembly 6 homolog (C. elegans)
+ENSMUSG00000027715	cyclin A2
+ENSMUSG00000029554	mitotic arrest deficient 1-like 1
+ENSMUSG00000043987	centrosomal protein 164
+ENSMUSG00000006398	cell division cycle 20 homolog (S. cerevisiae)
+ENSMUSG00000019794	predicted gene 6524; katanin p60 (ATPase-containing) subunit A1
+ENSMUSG00000002055	sperm associated antigen 5
+ENSMUSG00000036928	stromal antigen 3
+ENSMUSG00000022177	HAUS augmin-like complex, subunit 4
+ENSMUSG00000001833	septin 7
+ENSMUSG00000029003	MAD2 mitotic arrest deficient-like 2 (yeast)
+ENSMUSG00000036779	PAP associated domain containing 5
+ENSMUSG00000031347	centrin 2
+ENSMUSG00000001403	ubiquitin-conjugating enzyme E2C; predicted gene 8956
+ENSMUSG00000041840	HAUS augmin-like complex, subunit 1
+ENSMUSG00000020687	cell division cycle 27 homolog (S. cerevisiae)
+ENSMUSG00000025077	DNA cross-link repair 1A, PSO2 homolog (S. cerevisiae)
+ENSMUSG00000047534	expressed sequence C79407
+ENSMUSG00000024370	CDC23 (cell division cycle 23, yeast, homolog)
+ENSMUSG00000027550	leucine rich repeat and coiled-coil domain containing 1
+ENSMUSG00000024277	microtubule-associated protein, RP/EB family, member 2
+ENSMUSG00000011589	fibronectin type 3 and SPRY domain-containing protein
+ENSMUSG00000020235	fizzy/cell division cycle 20 related 1 (Drosophila)
+ENSMUSG00000019923	ZW10 interactor
+ENSMUSG00000034575	polymerase (DNA directed) sigma
+ENSMUSG00000028109	HORMA domain containing 1; predicted gene 7167
+ENSMUSG00000029466	anaphase promoting complex subunit 7
+ENSMUSG00000003824	synaptonemal complex central element protein 2
+ENSMUSG00000027654	family with sequence similarity 83, member D
+ENSMUSG00000029472	anaphase-promoting complex subunit 5; similar to anaphase-promoting complex subunit 5
+ENSMUSG00000038943	protein regulator of cytokinesis 1
+ENSMUSG00000038416	CDC16 cell division cycle 16 homolog (S. cerevisiae)
+ENSMUSG00000029385	cyclin G2
+ENSMUSG00000066149	cell division cycle 26; predicted gene 9174
+ENSMUSG00000079614	SEH1-like (S. cerevisiae
+ENSMUSG00000056758	predicted gene 7996; high mobility group AT-hook 2
+ENSMUSG00000079555	cDNA sequence BC023882
+ENSMUSG00000040549	cytoskeleton associated protein 5
+ENSMUSG00000032400	Zwilch, kinetochore associated, homolog (Drosophila)
+ENSMUSG00000074476	SPC24, NDC80 kinetochore complex component, homolog (S. cerevisiae)
+ENSMUSG00000062510	NSL1, MIND kinetochore complex component, homolog (S. cerevisiae)
+ENSMUSG00000024660	inner centromere protein
+ENSMUSG00000033900	microtubule-associated protein 9
+ENSMUSG00000039130	zinc finger, C3HC type 1
+ENSMUSG00000033392	CLIP associating protein 2
+ENSMUSG00000028066	polyamine-modulated factor 1
+ENSMUSG00000035439	4HAUS augmin-like complex, subunit 8
+ENSMUSG00000038241	centrosomal protein 250
+ENSMUSG00000040599	MIS12 homolog (yeast)
+ENSMUSG00000034906	non-SMC condensin I complex, subunit H
+ENSMUSG00000031858	RIKEN cDNA 9130404D08 gene
+ENSMUSG00000035048	anaphase promoting complex subunit 13
+ENSMUSG00000027469	TPX2, microtubule-associated protein homolog (Xenopus laevis)
+ENSMUSG00000032782	centrobin, centrosomal BRCA2 interacting protein
+ENSMUSG00000032477	cell division cycle 25 homolog A (S. pombe)
+ENSMUSG00000014355	anaphase promoting complex subunit 1
+ENSMUSG00000020492	predicted gene 6597; RIKEN cDNA 1110001A07 gene
+ENSMUSG00000026491	AT hook containing transcription factor 1
+ENSMUSG00000005233	SPC25, NDC80 kinetochore complex component, homolog (S. cerevisiae)
+ENSMUSG00000024056	NDC80 homolog, kinetochore complex component (S. cerevisiae)
+ENSMUSG00000024989	centrosomal protein 55
+ENSMUSG00000032534	centrosomal protein 63
+ENSMUSG00000048922	cell division cycle associated 2
+ENSMUSG00000040945	regulator of chromosome condensation 2; hypothetical protein LOC100047340
+ENSMUSG00000027855	synaptonemal complex protein 1; similar to testicular protein
+ENSMUSG00000023505	cell division cycle associated 3
+ENSMUSG00000032264	ZW10 homolog (Drosophila), centromere/kinetochore protein
+ENSMUSG00000021537	centrin 3
+ENSMUSG00000024791	cell division cycle associated 5
+ENSMUSG00000025135	anaphase promoting complex subunit 11
+ENSMUSG00000022141	Nipped-B homolog (Drosophila)
+ENSMUSG00000032218	cyclin B2
+ENSMUSG00000024790	SAC3 domain containing 1
+ENSMUSG00000078762	vomeronasal 2, receptor 53; predicted gene 8146; gene model 398, (NCBI); vomeronasal 2, receptor 54; HAUS augmin-like complex, subunit 5
+ENSMUSG00000041431	predicted gene 8416; predicted gene 5593; cyclin B1; similar to cyclin B1; predicted gene 4870
+ENSMUSG00000025480	synaptonemal complex central element protein 1
+ENSMUSG00000038252	non-SMC condensin I complex, subunit D2
+ENSMUSG00000029176	anaphase promoting complex subunit 4
+ENSMUSG00000028873	cell division cycle associated 8
+ENSMUSG00000021258	cyclin K; similar to cyclin K
+ENSMUSG00000020326	cyclin G1
+ENSMUSG00000026039	shugoshin-like 2 (S. pombe)
+ENSMUSG00000036777	anillin, actin binding protein
+ENSMUSG00000020059	synaptonemal complex protein 3
+ENSMUSG00000022978	RIKEN cDNA 2610039C10 gene
+ENSMUSG00000023940	shugoshin-like 1 (S. pombe)
+ENSMUSG00000022432	structural maintenance of chromosomes 1B
+ENSMUSG00000042029	non-SMC condensin II complex, subunit G2
+ENSMUSG00000028447	dynactin 3
+ENSMUSG00000028851	nuclear distribution gene C homolog (Aspergillus), pseudogene 1; nuclear distribution gene C homolog (Aspergillus)
+ENSMUSG00000037544	discs, large (Drosophila) homolog-associated protein 5
+
+Gene Group 9	Enrichment Score: 57.62842660690625
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000029253	centromere protein C1
+ENSMUSG00000025144	stimulated by retinoic acid 13
+ENSMUSG00000073705	apoptosis-inducing, TAF9-like domain 1
+ENSMUSG00000075266	RIKEN cDNA 2610036L11 gene
+ENSMUSG00000031756	centromere protein N
+ENSMUSG00000026708	centromere protein L
+ENSMUSG00000036672	centromere protein T
+ENSMUSG00000023919	centromere protein Q
+
+Gene Group 10	Enrichment Score: 29.868295523887234
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000028678	similar to Kinesin-like protein KIF2C (Mitotic centromere-associated kinesin) (MCAK); kinesin family member 2C
+ENSMUSG00000004187	kinesin family member C2
+ENSMUSG00000012443	kinesin family member 11
+ENSMUSG00000006740	kinesin family member 5B
+ENSMUSG00000021375	kinesin family member 13A
+ENSMUSG00000032435	dynein cytoplasmic 1 light intermediate chain 1
+ENSMUSG00000032254	kinesin family member 23
+ENSMUSG00000021693	kinesin family member 2A
+ENSMUSG00000041498	kinesin family member 14
+ENSMUSG00000024795	kinesin family member 20B
+ENSMUSG00000051378	kinesin family member 18B; RIKEN cDNA 3000004C01 gene
+
+Gene Group 11	Enrichment Score: 7.176558120553643
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000031010	ubiquitin specific peptidase 9, X chromosome
+ENSMUSG00000032010	ubiquitin specific peptidase 2
+ENSMUSG00000027363	ubiquitin specific peptidase 8
+ENSMUSG00000028560	ubiquitin specific peptidase 1; predicted gene 5841
+ENSMUSG00000020020	ubiquitin specific peptidase 44
+ENSMUSG00000042506	ubiquitin specific peptidase 22
+ENSMUSG00000032376	ubiquitin specific peptidase 3
+ENSMUSG00000033364	ubiquitin specific peptidase 37
+
+Gene Group 12	Enrichment Score: 5.395620412831386
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000033863	Kruppel-like factor 9
+ENSMUSG00000073423	zinc finger protein 414
+ENSMUSG00000003282	pleiomorphic adenoma gene 1
+ENSMUSG00000044934	zinc finger protein 367
+ENSMUSG00000030145	zinc finger protein 248
+
+Gene Group 13	Enrichment Score: 2.5559680700162515
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000049354	WD repeat domain 68
+ENSMUSG00000022914	bromodomain and WD repeat domain containing 1
+ENSMUSG00000017677	WD repeat and SOCS box-containing 1
+ENSMUSG00000027242	WD repeat domain 76
+ENSMUSG00000001785	PWP1 homolog (S. cerevisiae)
+ENSMUSG00000066357	WD repeat domain 6
+ENSMUSG00000020372	guanine nucleotide binding protein (G protein), beta polypeptide 2 like 1
+ENSMUSG00000022945	chromatin assembly factor 1, subunit B (p60)
+ENSMUSG00000020271	F-box and WD-40 domain protein 11
+
+Gene Group 14	Enrichment Score: 0.7085087047890881
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000059486	kelch repeat and BTB (POZ) domain containing 2
+ENSMUSG00000070923	kelch-like 9 (Drosophila)
+ENSMUSG00000073700	kelch-like 21 (Drosophila)
+ENSMUSG00000023150	influenza virus NS1A binding protein
+ENSMUSG00000036782	kelch-like 13 (Drosophila)
+
+Gene Group 15	Enrichment Score: -0.0
+ENSEMBL_GENE_ID	Gene Name
+ENSMUSG00000028461	hypothetical protein LOC622404
+ENSMUSG00000044345	MARVEL (membrane-associating) domain containing 1
+ENSMUSG00000024666	transmembrane protein 138
+ENSMUSG00000027937	jumping translocation breakpoint
+ENSMUSG00000049872	family with sequence similarity 26, member E
+ENSMUSG00000039801	RIKEN cDNA 2410089E03 gene
+ENSMUSG00000033031	RIKEN cDNA C330027C09 gene
+ENSMUSG00000037344	solute carrier family 12 (potassium/chloride transporters), member 9
+ENSMUSG00000003541	immediate early response 3
+ENSMUSG00000027860	vang-like 1 (van gogh, Drosophila); similar to loop-tail protein 2
+ENSMUSG00000026960	similar to ADP-ribosylation-like factor 6-interacting protein 6; ADP-ribosylation factor-like 6 interacting protein 6
+

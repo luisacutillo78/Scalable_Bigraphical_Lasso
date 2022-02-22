@@ -1,0 +1,11 @@
+ID	Gene Name	Species
+ENSMUSG00000032264	ZW10 homolog (Drosophila), centromere/kinetochore protein	Mus musculus	
+ENSMUSG00000032400	Zwilch, kinetochore associated, homolog (Drosophila)	Mus musculus	
+ENSMUSG00000017716	baculoviral IAP repeat-containing 5	Mus musculus	
+ENSMUSG00000019942	cell division cycle 2 homolog A (S. pombe)	Mus musculus	
+ENSMUSG00000045328	centromere protein E	Mus musculus	
+ENSMUSG00000032534	centrosomal protein 63	Mus musculus	
+ENSMUSG00000014668	checkpoint with forkhead and ring finger domains	Mus musculus	
+ENSMUSG00000029910	similar to spindle assembly checkpoint protein; MAD2 mitotic arrest deficient-like 1 (yeast)	Mus musculus	
+ENSMUSG00000041133	structural maintenance of chromosomes 1A	Mus musculus	
+ENSMUSG00000032397	timeless interacting protein	Mus musculus	

@@ -1,0 +1,19 @@
+ID	Gene Name	Species
+ENSMUSG00000005470	ASF1 anti-silencing function 1 homolog B (S. cerevisiae)	Mus musculus	
+ENSMUSG00000026491	AT hook containing transcription factor 1	Mus musculus	
+ENSMUSG00000027478	DNA methyltransferase 3B	Mus musculus	
+ENSMUSG00000049932	H2A histone family, member X	Mus musculus	
+ENSMUSG00000072980	Opa interacting protein 5	Mus musculus	
+ENSMUSG00000031858	RIKEN cDNA 9130404D08 gene	Mus musculus	
+ENSMUSG00000000902	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	Mus musculus	
+ENSMUSG00000058301	UPF1 regulator of nonsense transcripts homolog (yeast)	Mus musculus	
+ENSMUSG00000063870	chromodomain helicase DNA binding protein 4	Mus musculus	
+ENSMUSG00000025001	helicase, lymphoid specific	Mus musculus	
+ENSMUSG00000028759	heterochromatin protein 1, binding protein 3	Mus musculus	
+ENSMUSG00000036181	histone cluster 1, H1c	Mus musculus	
+ENSMUSG00000024660	inner centromere protein	Mus musculus	
+ENSMUSG00000056758	predicted gene 7996; high mobility group AT-hook 2	Mus musculus	
+ENSMUSG00000031609	sin3 associated polypeptide	Mus musculus	
+ENSMUSG00000039231	suppressor of variegation 3-9 homolog 1 (Drosophila)	Mus musculus	
+ENSMUSG00000026646	suppressor of variegation 3-9 homolog 2 (Drosophila)	Mus musculus	
+ENSMUSG00000032397	timeless interacting protein	Mus musculus	

@@ -1,0 +1,18 @@
+ID	Gene Name	Species
+ENSMUSG00000031644	NIMA (never in mitosis gene a)-related expressed kinase 1	Mus musculus	
+ENSMUSG00000026622	NIMA (never in mitosis gene a)-related expressed kinase 2	Mus musculus	
+ENSMUSG00000031478	NIMA (never in mitosis gene a)-related expressed kinase 3	Mus musculus	
+ENSMUSG00000021918	NIMA (never in mitosis gene a)-related expressed kinase 4	Mus musculus	
+ENSMUSG00000026749	NIMA (never in mitosis gene a)-related expressed kinase 6	Mus musculus	
+ENSMUSG00000034290	NIMA (never in mitosis gene a)-related expressed kinase 9	Mus musculus	
+ENSMUSG00000031016	WEE 1 homolog 1 (S. pombe)	Mus musculus	
+ENSMUSG00000020897	aurora kinase B	Mus musculus	
+ENSMUSG00000027379	budding uninhibited by benzimidazoles 1 homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000040084	budding uninhibited by benzimidazoles 1 homolog, beta (S. cerevisiae)	Mus musculus	
+ENSMUSG00000019942	cell division cycle 2 homolog A (S. pombe)	Mus musculus	
+ENSMUSG00000029516	citron	Mus musculus	
+ENSMUSG00000025358	cyclin-dependent kinase 2	Mus musculus	
+ENSMUSG00000040021	large tumor suppressor	Mus musculus	
+ENSMUSG00000021959	large tumor suppressor 2	Mus musculus	
+ENSMUSG00000030867	polo-like kinase 1 (Drosophila)	Mus musculus	
+ENSMUSG00000041431	predicted gene 8416; predicted gene 5593; cyclin B1; similar to cyclin B1; predicted gene 4870	Mus musculus	

@@ -1,0 +1,20 @@
+ID	Gene Name	Species
+ENSMUSG00000061665	CD2-associated protein	Mus musculus	
+ENSMUSG00000064302	CLIP associating protein 1	Mus musculus	
+ENSMUSG00000033392	CLIP associating protein 2	Mus musculus	
+ENSMUSG00000027883	G-protein signalling modulator 2 (AGS3-like, C. elegans)	Mus musculus	
+ENSMUSG00000036777	anillin, actin binding protein	Mus musculus	
+ENSMUSG00000025812	par-3 (partitioning defective 3) homolog (C. elegans)	Mus musculus	
+ENSMUSG00000044641	par-6 (partitioning defective 6) homolog beta (C. elegans)	Mus musculus	
+ENSMUSG00000005699	par-6 (partitioning defective 6,) homolog alpha (C. elegans)	Mus musculus	
+ENSMUSG00000027479	predicted gene 8545; microtubule-associated protein, RP/EB family, member 1; similar to Microtubule-associated protein RP/EB family member 1 (APC-binding protein EB1) (End-binding protein 1) (EB1)	Mus musculus	
+ENSMUSG00000000486	septin 1	Mus musculus	
+ENSMUSG00000019917	septin 10	Mus musculus	
+ENSMUSG00000058013	septin 11	Mus musculus	
+ENSMUSG00000026276	septin 2	Mus musculus	
+ENSMUSG00000020486	septin 4	Mus musculus	
+ENSMUSG00000050379	septin 6	Mus musculus	
+ENSMUSG00000001833	septin 7	Mus musculus	
+ENSMUSG00000018398	septin 8	Mus musculus	
+ENSMUSG00000059248	septin 9	Mus musculus	
+ENSMUSG00000020315	spectrin beta 2	Mus musculus	

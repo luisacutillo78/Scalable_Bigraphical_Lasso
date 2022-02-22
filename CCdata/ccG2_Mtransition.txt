@@ -1,0 +1,6 @@
+ID	Gene Name	Species
+ENSMUSG00000017716	baculoviral IAP repeat-containing 5	Mus musculus	
+ENSMUSG00000032113	checkpoint kinase 1 homolog (S. pombe)	Mus musculus	
+ENSMUSG00000036390	growth arrest and DNA-damage-inducible 45 alpha	Mus musculus	
+ENSMUSG00000040021	large tumor suppressor	Mus musculus	
+ENSMUSG00000020525	similar to Protein phosphatase 1D magnesium-dependent, delta; protein phosphatase 1D magnesium-dependent, delta isoform	Mus musculus	

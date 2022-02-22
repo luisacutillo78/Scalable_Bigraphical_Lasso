@@ -1,0 +1,35 @@
+ID	Gene Name	Species
+ENSMUSG00000022429	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	Mus musculus	
+ENSMUSG00000027478	DNA methyltransferase 3B	Mus musculus	
+ENSMUSG00000025395	DNA primase, p49 subunit	Mus musculus	
+ENSMUSG00000057469	E2F transcription factor 6	Mus musculus	
+ENSMUSG00000049932	H2A histone family, member X	Mus musculus	
+ENSMUSG00000026622	NIMA (never in mitosis gene a)-related expressed kinase 2	Mus musculus	
+ENSMUSG00000022314	RAD21 homolog (S. pombe)	Mus musculus	
+ENSMUSG00000000902	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	Mus musculus	
+ENSMUSG00000027379	budding uninhibited by benzimidazoles 1 homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000000743	chromatin modifying protein 1A; predicted gene 8515	Mus musculus	
+ENSMUSG00000020232	high mobility group 20 B	Mus musculus	
+ENSMUSG00000024660	inner centromere protein	Mus musculus	
+ENSMUSG00000002870	minichromosome maintenance deficient 2 mitotin (S. cerevisiae)	Mus musculus	
+ENSMUSG00000032498	mutL homolog 1 (E. coli)	Mus musculus	
+ENSMUSG00000035024	non-SMC condensin II complex, subunit D3	Mus musculus	
+ENSMUSG00000040044	origin recognition complex, subunit 3-like (S. cerevisiae)	Mus musculus	
+ENSMUSG00000056758	predicted gene 7996; high mobility group AT-hook 2	Mus musculus	
+ENSMUSG00000024974	predicted gene 8892; structural maintenace of chromosomes 3	Mus musculus	
+ENSMUSG00000023940	shugoshin-like 1 (S. pombe)	Mus musculus	
+ENSMUSG00000026039	shugoshin-like 2 (S. pombe)	Mus musculus	
+ENSMUSG00000031609	sin3 associated polypeptide	Mus musculus	
+ENSMUSG00000036928	stromal antigen 3	Mus musculus	
+ENSMUSG00000022432	structural maintenance of chromosomes 1B	Mus musculus	
+ENSMUSG00000039231	suppressor of variegation 3-9 homolog 1 (Drosophila)	Mus musculus	
+ENSMUSG00000026646	suppressor of variegation 3-9 homolog 2 (Drosophila)	Mus musculus	
+ENSMUSG00000025480	synaptonemal complex central element protein 1	Mus musculus	
+ENSMUSG00000003824	synaptonemal complex central element protein 2	Mus musculus	
+ENSMUSG00000027855	synaptonemal complex protein 1; similar to testicular protein	Mus musculus	
+ENSMUSG00000020059	synaptonemal complex protein 3	Mus musculus	
+ENSMUSG00000025925	telomeric repeat binding factor 1	Mus musculus	
+ENSMUSG00000031921	telomeric repeat binding factor 2	Mus musculus	
+ENSMUSG00000032397	timeless interacting protein	Mus musculus	
+ENSMUSG00000032555	topoisomerase (DNA) II binding protein 1	Mus musculus	
+ENSMUSG00000041408	wings apart-like homolog (Drosophila)	Mus musculus	

@@ -1,0 +1,10 @@
+ID	Gene Name	Species
+ENSMUSG00000000028	cell division cycle 45 homolog (S. cerevisiae)-like	Mus musculus	
+ENSMUSG00000002068	cyclin E1	Mus musculus	
+ENSMUSG00000028212	cyclin E2	Mus musculus	
+ENSMUSG00000002870	minichromosome maintenance deficient 2 mitotin (S. cerevisiae)	Mus musculus	
+ENSMUSG00000041859	minichromosome maintenance deficient 3 (S. cerevisiae)	Mus musculus	
+ENSMUSG00000022673	minichromosome maintenance deficient 4 homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000005410	minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	Mus musculus	
+ENSMUSG00000026355	minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	Mus musculus	
+ENSMUSG00000029730	minichromosome maintenance deficient 7 (S. cerevisiae)	Mus musculus	

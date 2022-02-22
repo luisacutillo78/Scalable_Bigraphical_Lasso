@@ -1,0 +1,50 @@
+ID	Gene Name	Species
+ENSMUSG00000025646	ATR interacting protein	Mus musculus	
+ENSMUSG00000026196	BRCA1 associated RING domain 1	Mus musculus	
+ENSMUSG00000030983	BRCA2 and CDKN1A interacting protein	Mus musculus	
+ENSMUSG00000022429	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	Mus musculus	
+ENSMUSG00000025077	DNA cross-link repair 1A, PSO2 homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000034023	Fanconi anemia, complementation group D2	Mus musculus	
+ENSMUSG00000039187	Fanconi anemia, complementation group I	Mus musculus	
+ENSMUSG00000049932	H2A histone family, member X	Mus musculus	
+ENSMUSG00000021635	RAD17 homolog (S. pombe)	Mus musculus	
+ENSMUSG00000022314	RAD21 homolog (S. pombe)	Mus musculus	
+ENSMUSG00000020380	RAD50 homolog (S. cerevisiae)	Mus musculus	
+ENSMUSG00000028702	RAD54 like (S. cerevisiae)	Mus musculus	
+ENSMUSG00000078773	RIKEN cDNA E130016E03 gene	Mus musculus	
+ENSMUSG00000058301	UPF1 regulator of nonsense transcripts homolog (yeast)	Mus musculus	
+ENSMUSG00000025269	apurinic/apyrimidinic endonuclease 2	Mus musculus	
+ENSMUSG00000034218	ataxia telangiectasia mutated homolog (human)	Mus musculus	
+ENSMUSG00000017146	breast cancer 1	Mus musculus	
+ENSMUSG00000041147	breast cancer 2	Mus musculus	
+ENSMUSG00000043987	centrosomal protein 164	Mus musculus	
+ENSMUSG00000032113	checkpoint kinase 1 homolog (S. pombe)	Mus musculus	
+ENSMUSG00000002835	chromatin assembly factor 1, subunit A (p150)	Mus musculus	
+ENSMUSG00000022945	chromatin assembly factor 1, subunit B (p60)	Mus musculus	
+ENSMUSG00000042489	claspin homolog (Xenopus laevis)	Mus musculus	
+ENSMUSG00000042417	cyclin O	Mus musculus	
+ENSMUSG00000022034	establishment of cohesion 1 homolog 2 (S. cerevisiae)	Mus musculus	
+ENSMUSG00000039748	exonuclease 1	Mus musculus	
+ENSMUSG00000024742	flap structure specific endonuclease 1	Mus musculus	
+ENSMUSG00000056394	ligase I, DNA, ATP-dependent	Mus musculus	
+ENSMUSG00000020697	ligase III, DNA, ATP-dependent	Mus musculus	
+ENSMUSG00000049717	ligase IV, DNA, ATP-dependent	Mus musculus	
+ENSMUSG00000061607	mediator of DNA damage checkpoint 1	Mus musculus	
+ENSMUSG00000032498	mutL homolog 1 (E. coli)	Mus musculus	
+ENSMUSG00000024151	mutS homolog 2 (E. coli)	Mus musculus	
+ENSMUSG00000039396	nei like 3 (E. coli)	Mus musculus	
+ENSMUSG00000028224	nibrin	Mus musculus	
+ENSMUSG00000020415	pituitary tumor-transforming gene 1	Mus musculus	
+ENSMUSG00000054717	predicted gene 13160; predicted gene 8681; predicted gene 13237; predicted gene 4169; predicted gene 8284; similar to High mobility group box 2; predicted gene 13167; high mobility group box 2; predicted gene 13232	Mus musculus	
+ENSMUSG00000059586	predicted gene 5203; non-SMC element 2 homolog (MMS21, S. cerevisiae)	Mus musculus	
+ENSMUSG00000024293	predicted gene 7054; establishment of cohesion 1 homolog 1 (S. cerevisiae)	Mus musculus	
+ENSMUSG00000024974	predicted gene 8892; structural maintenace of chromosomes 3	Mus musculus	
+ENSMUSG00000027342	proliferating cell nuclear antigen; similar to proliferating cell nuclear antigen (DNA polymerase delta auxiliary protein)	Mus musculus	
+ENSMUSG00000024943	similar to Structural maintenance of chromosomes 5; structural maintenance of chromosomes 5	Mus musculus	
+ENSMUSG00000041133	structural maintenance of chromosomes 1A	Mus musculus	
+ENSMUSG00000021569	thyroid hormone receptor interactor 13	Mus musculus	
+ENSMUSG00000032555	topoisomerase (DNA) II binding protein 1	Mus musculus	
+ENSMUSG00000059552	transformation related protein 53	Mus musculus	
+ENSMUSG00000028560	ubiquitin specific peptidase 1; predicted gene 5841	Mus musculus	
+ENSMUSG00000001228	ubiquitin-like, containing PHD and RING finger domains, 1; predicted gene 5648; similar to nuclear zinc finger protein Np95	Mus musculus	
+ENSMUSG00000029591	uracil DNA glycosylase	Mus musculus	

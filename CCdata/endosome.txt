@@ -1,0 +1,19 @@
+ID	Gene Name	Species
+ENSMUSG00000026426	ADP-ribosylation factor-like 8A	Mus musculus	
+ENSMUSG00000030105	ADP-ribosylation factor-like 8B	Mus musculus	
+ENSMUSG00000017639	RAB11 family interacting protein 4 (class II)	Mus musculus	
+ENSMUSG00000004771	RAB11a, member RAS oncogene family	Mus musculus	
+ENSMUSG00000026389	STEAP family member 3	Mus musculus	
+ENSMUSG00000040760	adaptor protein, phosphotyrosine interaction, PH domain and leucine zipper containing 1	Mus musculus	
+ENSMUSG00000020263	adaptor protein, phosphotyrosine interaction, PH domain and leucine zipper containing 2	Mus musculus	
+ENSMUSG00000000743	chromatin modifying protein 1A; predicted gene 8515	Mus musculus	
+ENSMUSG00000031242	chromatin modifying protein 1B; RIKEN cDNA 2610002M06 gene	Mus musculus	
+ENSMUSG00000024197	mannose-6-phosphate receptor binding protein 1	Mus musculus	
+ENSMUSG00000054364	ras homolog gene family, member B	Mus musculus	
+ENSMUSG00000026064	similar to tyrosine phosphatase; predicted gene 8783; predicted gene 15801; predicted gene 5951; protein tyrosine phosphatase 4a1; similar to killer cell lectin-like receptor subfamily A member 2	Mus musculus	
+ENSMUSG00000078656	similar to vacuolar protein sorting 25; vacuolar protein sorting 25 (yeast)	Mus musculus	
+ENSMUSG00000009907	similar to vacuolar protein sorting 4b; vacuolar protein sorting 4b (yeast)	Mus musculus	
+ENSMUSG00000024068	spastin	Mus musculus	
+ENSMUSG00000014402	tumor susceptibility gene 101	Mus musculus	
+ENSMUSG00000053119	vacuolar protein sorting 24 (yeast); predicted gene 7464	Mus musculus	
+ENSMUSG00000031913	vacuolar protein sorting 4a (yeast)	Mus musculus	

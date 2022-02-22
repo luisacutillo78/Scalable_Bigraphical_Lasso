@@ -1,0 +1,4 @@
+% mex glmnet
+fprintf('Compiling MEX files...\n');
+mex - -compatibleArrayDims -setup FORTRAN -v GLMnet.F
+mex -R2017b -compatibleArrayDims -setup FORTRAN -v glmnetMex.F
