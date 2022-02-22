@@ -19,11 +19,7 @@ The experiment was run on Windows 10. Please let us know if you encounter any pr
 * run **run_synthetic_data.m**.
 ## For Figure 4
 * run **run_synthetic_data_three_blocks.m**.
-## For Figure 6
-* run **main_duck_fast_new_colour_ST.m**.
-## For Figure 7
+## For Figure 5
 * run **main_genes.m**.
-## For Figure 8
+## For Figure 6
 * run **main.R**.
-## For experiment on coil duck pictures
-* run **main_duck_fast_new_colour_ST.m**.
