@@ -17,7 +17,7 @@ tic
 [W, W_dual, Psi_hat, Theta_hat,of] = biglasso(S, T, beta, 'maxIter', 100, 'thresh', 1e-4);
 et_biglasso(i)=toc;
 tic
-[~,~,Psi_hatF, Theta_hatF,ofF] = UpdateLoop1_only_backtracking_per_column(S, T, beta, 'maxIter', 100, 'thresh', 1e-4);
+[~,~,Psi_hatF, Theta_hatF,ofF] = scBiglasso(S, T, beta, 'maxIter', 100, 'thresh', 1e-4);
 et_scBiglasso(i)=toc;
 SS{1}=T;
 SS{2}=S;

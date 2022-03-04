@@ -168,7 +168,7 @@ ylabel('Norm. $\|\Omega_t - \Omega^*\|_F$','interpreter','latex')
 lambda=lambdaScB;
 
 tic
-[diffTheta,diffPsi,Psi1,Theta,Psis]=UpdateLoop1_only_backtracking_per_column_compare(S{2},S{1},lambda,'maxIter',maxiter);
+[diffTheta,diffPsi,Psi1,Theta,Psis]=scBiglasso_compare(S{2},S{1},lambda,'maxIter',maxiter);
 
 time2 = toc;
 Psi{1}=Theta;
