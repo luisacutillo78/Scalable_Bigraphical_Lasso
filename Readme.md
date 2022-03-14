@@ -12,7 +12,8 @@ Example on synthetic data: run_synthetic_data.m
 
 Example on real data: main_genes.m
 
-The experiment was run on Windows 10. Please let us know if you encounter any problems either on Windows or other operating system.
+## System requirements
+The experiment was run on Intel(R) Core(TM) i5-9500, Windows 10. Please let us know if you encounter any problems either on Windows or other operating system.
 
 ## For Figure 1
 * run **Figure1.m**.
@@ -26,3 +27,5 @@ The experiment was run on Windows 10. Please let us know if you encounter any pr
 * run **main_genes.m**.
 ## For Figure 6
 * run **main.R**.
+
+## Copyright
