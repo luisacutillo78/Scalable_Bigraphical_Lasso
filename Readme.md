@@ -12,7 +12,7 @@ We assume that you'll run these scripts from your current working directory.  Ch
 The experiment was run on Windows 10. Please let us know if you encounter any problems either on Windows or other operating system.
 
 ## For Figure 1
-* run **Rebuttal_Figures.m**.
+* run **Figure1.m**.
 ## For Figure 2
 * run **run_syntheticGaussian_Three_method_time.m**.
 ## For Figure 3, Figure 9 and Figure 10

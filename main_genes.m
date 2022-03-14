@@ -77,7 +77,7 @@ lambda=[0.014,0.001];
 
 tol = 1e-2;
 maxIter = 50;
-[diffTheta,diffPsi,Psi,Theta,objectiveFunction]=UpdateLoop1_only_backtracking_per_column(S,T,lambda,'maxIter',maxIter,'thresh',tol);
+[diffTheta,diffPsi,Psi,Theta,objectiveFunction]=scBiglasso(S,T,lambda,'maxIter',maxIter,'thresh',tol);
 
 %%%%%%%%%%%%%plottings
 figure(1)

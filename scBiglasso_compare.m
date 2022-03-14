@@ -1,4 +1,4 @@
-function [diffTheta,diffPsi,Psi,Theta,PsiS]=UpdateLoop1_only_backtracking_per_column_compare(S,T,beta,varargin)
+function [diffTheta,diffPsi,Psi,Theta,PsiS]=scBiglasso_compare(S,T,beta,varargin)
 %We  specifically saved the sequence of matrices update at each iteration
 %for comparison purpose with Teralasso.
 %Other part of the algorithm is not changed

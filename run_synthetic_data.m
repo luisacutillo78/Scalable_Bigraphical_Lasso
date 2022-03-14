@@ -23,7 +23,7 @@ nl=length(beta1);
 for i=1:nl
     for j=1:nl
 beta=[beta1(i),beta2(j)];
-[diffTheta,diffPsi,Psi,Theta,objectiveFunction]=UpdateLoop1_only_backtracking_per_column(S,T,beta);
+[diffTheta,diffPsi,Psi,Theta,objectiveFunction]=scBiglasso(S,T,beta);
 
 figure(1), clf
 subplot(121), imagesc(Psi_true), title('\Psi_0')
@@ -94,18 +94,21 @@ ACCURACY_Psi(i,j)=accuracy_Psi;
 ACCURACY_Theta(i,j)=accuracy_Theta;
 log_likelihood_Psi=-(objectiveFunction(size(objectiveFunction,1),2)-beta(1)*norm(Psi));
 log_likelihood_Theta=-(objectiveFunction(size(objectiveFunction,1),3)-beta(2)*norm(Theta));
-gamma=0.5;
-[ebic_Psi]=Calculate_EBIC(log_likelihood_Psi,Psi_b,Theta_b,gamma);
-[ebic_Theta]=Calculate_EBIC(log_likelihood_Theta,Theta_b,Psi_b,gamma);
 [bic_Psi]=Calculate_BIC(log_likelihood_Psi,Psi_b,Theta_b);
 [bic_Theta]=Calculate_BIC(log_likelihood_Theta,Theta_b,Psi_b);
 %%%%%%%%%%%%%plottings
-EBIC_Psi(i,j)=ebic_Psi;
-EBIC_Theta(i,j)=ebic_Theta;
 BIC_Psi(i,j)=bic_Psi;
 BIC_Theta(i,j)=bic_Theta;
     end
 end
+fileout=sprintf('BIC_Psi_n_%d_p_%d.xlsx',n,p);
+filename = fullfile(outputdir,fileout);
+writematrix(BIC_Psi,filename);
+
+fileout=sprintf('BIC_Theta_n_%d_p_%d.xlsx',n,p);
+filename = fullfile(outputdir,fileout);
+writematrix(BIC_Theta,filename);
+
 fileout=sprintf('beta1_n_%d_p_%d.xlsx',n,p);
 filename = fullfile(outputdir,fileout);
 writematrix(BETA1,filename);

@@ -23,7 +23,7 @@ nl=length(beta1);
 for i=1:nl
     for j=1:nl
 beta=[beta1(i),beta2(j)];
-[diffTheta,diffPsi,Psi,Theta,objectiveFunction]=UpdateLoop1_only_backtracking_per_column(S,T,beta);
+[diffTheta,diffPsi,Psi,Theta,objectiveFunction]=scBiglasso(S,T,beta);
 
 figure(1), clf
 subplot(131), imagesc(Psi_true), title('\Psi_0')
