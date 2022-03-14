@@ -7,7 +7,9 @@ We are using  **Matlab 2020b**.
 You will need to install the following matlab libraries: ndlutil, rca, glmnet_matlab, L1General. Copies of these are included in this repo.
 You will also need the library of Teralasso (Greenewald et al. 2019) for some comparison studies.
 
-We assume that you'll run these scripts from your current working directory.  Change the `mypath` variable if you do otherwise.
+## Examples of use
+example on synthetic data: run_synthetic_data.m
+example on real data: main_genes.m
 
 The experiment was run on Windows 10. Please let us know if you encounter any problems either on Windows or other operating system.
 
