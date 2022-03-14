@@ -8,8 +8,9 @@ You will need to install the following matlab libraries: ndlutil, rca, glmnet_ma
 You will also need the library of Teralasso (Greenewald et al. 2019) for some comparison studies.
 
 ## Examples of use
-example on synthetic data: run_synthetic_data.m
-example on real data: main_genes.m
+Example on synthetic data: run_synthetic_data.m
+
+Example on real data: main_genes.m
 
 The experiment was run on Windows 10. Please let us know if you encounter any problems either on Windows or other operating system.
 
